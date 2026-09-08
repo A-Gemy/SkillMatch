@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/home/ahmed/.config/herd-lite/bin/php",
+            "args": [
+                "/home/ahmed/SkillMatch/skillmatch/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
